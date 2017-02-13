@@ -8,7 +8,7 @@ Original README:
 Files:
 
 | Name   | Description  |
-| ------ | ------------:|
+| ------ | ------------ |
 | Makefile | Compiles your shell program and runs the tests |
 | README | This file |
 | tsh.c | The shell program that you will write and hand in |
@@ -16,6 +16,7 @@ Files:
 
 #### The remaining files are used to test your shell
 
+| Name        | Description                   |
 | ----------- | ----------------------------- |
 | sdriver.pl  | The trace-driven shell driver |
 | trace\*.txt | The 15 trace files that control the shell driver |
@@ -23,6 +24,7 @@ Files:
 
 #### Little C programs that are called by the trace files
 
+| Name        | Description                   |
 | ----------- | ----------------------------- |
 | myspin.c    | Takes argument `n` and spins for `n` seconds |
 | mysplit.c   | Forks a child that spins for `n` seconds |
