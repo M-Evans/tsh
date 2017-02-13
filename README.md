@@ -14,7 +14,7 @@ Files:
 | tsh.c | The shell program that you will write and hand in |
 | tshref | The reference shell binary. |
 
-#### The remaining files are used to test your shell
+### The remaining files are used to test your shell
 
 | Name        | Description                   |
 | ----------- | ----------------------------- |
@@ -22,7 +22,7 @@ Files:
 | trace\*.txt | The 15 trace files that control the shell driver |
 | tshref.out  | Example output of the reference shell on all 15 traces |
 
-#### Little C programs that are called by the trace files
+### Little C programs that are called by the trace files
 
 | Name        | Description                   |
 | ----------- | ----------------------------- |
