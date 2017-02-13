@@ -1,5 +1,3 @@
-make || { echo "failed to make"; exit 1; }
-
 TMP1=`mktemp`
 TMP2=`mktemp`
 
